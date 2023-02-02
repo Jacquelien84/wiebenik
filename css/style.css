@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+body::before {
+    display: block;
+    content: '';
+    height: 50px;
+}
